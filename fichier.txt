@@ -1,2 +1,5 @@
 web Speech API de w3c sur github
+https://w3c.github.io/speech-api/speechapi.html
+
 w3c vibration API sur github
+https://github.com/w3c/vibration
